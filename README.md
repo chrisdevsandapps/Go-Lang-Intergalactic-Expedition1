@@ -2,6 +2,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AKZ1oa-LbjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![go](https://img.youtube.com/vi/LO2RPDZkY88/0.jpg)](https://www.youtube.com/watch?v=LO2RPDZkY88 "title")
+
+
+
 # Go Lang Miscellaneous
 
 
